@@ -44,6 +44,10 @@ $(document).ready(function () {
 
     clone.transform('t100,200r45');
 
+    // essai gna
+    $('#coucou').html('hello <b>Mende</b> me voilà !')
+
 
 });
+
 document.body.appendChild(component());

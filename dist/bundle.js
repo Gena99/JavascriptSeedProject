@@ -10272,8 +10272,12 @@ __WEBPACK_IMPORTED_MODULE_7__node_modules_jquery_dist_jquery_min___default.a(doc
 
     clone.transform('t100,200r45');
 
+    // essai gna
+    __WEBPACK_IMPORTED_MODULE_7__node_modules_jquery_dist_jquery_min___default.a('#coucou').html('hello <b>Mende</b> me voilà !')
+
 
 });
+
 document.body.appendChild(component());
 
 /***/ }),
